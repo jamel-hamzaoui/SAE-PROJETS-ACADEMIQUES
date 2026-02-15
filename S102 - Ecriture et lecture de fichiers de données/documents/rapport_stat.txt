@@ -1,0 +1,24 @@
+##################################################
+#   ANALYSE DES PROFILS - PROGRAMME MARS 2035    #
+##################################################
+
+Nombre de candidats traites : 100
+
+>>> PARTIE 1 : ORIGINE GEOGRAPHIQUE <<<
+Objectif : Assurer la diversite geographique.
+
+ [ZONE] Europe de l’est .................... 22 (22%)
+ [ZONE] Zone Inconnue .................... 15 (15%)
+ [ZONE] Europe scandinave du nord .................... 28 (28%)
+ [ZONE] Europe centrale .................... 21 (21%)
+ [ZONE] Europe méditerranéenne .................... 14 (14%)
+
+>>> PARTIE 2 : NIVEAUX D'ETUDES <<<
+Objectif : Verifier les qualifications.
+
+ [DIPLOME] Doctorat .................... 8 (8%)
+ [DIPLOME] Non renseigne .................... 32 (32%)
+ [DIPLOME] Master .................... 18 (18%)
+ [DIPLOME] Licence .................... 21 (21%)
+ [DIPLOME] Bac .................... 13 (13%)
+ [DIPLOME] Ingenieur .................... 8 (8%)
